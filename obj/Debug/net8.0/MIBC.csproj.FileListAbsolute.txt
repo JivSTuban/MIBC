@@ -38,3 +38,4 @@ C:\Users\JivSTuban\source\repos\MIBC\obj\Debug\net8.0\refint\MIBC.dll
 C:\Users\JivSTuban\source\repos\MIBC\obj\Debug\net8.0\MIBC.pdb
 C:\Users\JivSTuban\source\repos\MIBC\obj\Debug\net8.0\MIBC.genruntimeconfig.cache
 C:\Users\JivSTuban\source\repos\MIBC\obj\Debug\net8.0\ref\MIBC.dll
+C:\Users\JivSTuban\source\repos\MIBC\obj\Debug\net8.0\MIBC.sourcelink.json

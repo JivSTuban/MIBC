@@ -26,7 +26,7 @@ a {
     align-items: center;
     align-content: flex-start;
     height: 100vh;
-    min-width: 300px;
+    background-size: cover;
     color: #eee;
     border-radius: 10px;
 }
@@ -39,6 +39,8 @@ a {
         bottom: 0;
         left: 0;
         z-index: -1;
+        background-size: cover;
+        min-height: 100vh;
         background: linear-gradient(to bottom, rgba(0,0,0,0.12) 40%,rgba(27,32,48,1) 100%);
     }
 
@@ -53,9 +55,10 @@ a {
         backface-visibility: hidden;
         transform: translateZ(0);
         background: #1B2030 url(https://images.unsplash.com/photo-1571993142257-eae0b44cf0f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ) 50% 0 no-repeat;
-        background-size: 100%;
+        background-size: cover;
         background-attachment: fixed;
         animation: grow 360s linear 10ms infinite;
+        min-height: 100vh;
         transition: all 0.4s ease-in-out;
         z-index: -2;
     }
@@ -106,6 +109,13 @@ a {
     height: 40px;
 }
 
+.mibclogo{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: -90px;
+}
+
 .sides, .info {
     flex: 0 0 auto;
     width: 100%;
@@ -130,7 +140,26 @@ h3 {
     transition: all 300ms linear;
 }
 
+@media screen and (max-width: 780px) {
+    .mibclogo {
+        height: 175px;
+        width: 175px;
+        margin-bottom: 20px;
+        margin-top: -30px;
+    }
+
+    h3 {
+        font-size: 32px;
+    }
+}
+
 @media screen and (max-width: 580px) {
+    .mibclogo {
+        height: 150px;
+        width: 150px;
+        margin-bottom: 20px;
+        margin-top: -10px;
+    }
     h3 {
         font-size: 32px;
     }

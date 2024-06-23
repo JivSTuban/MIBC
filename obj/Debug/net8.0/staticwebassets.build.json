@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "suAr6aLpaVtH9aAFAHGOaIGGllqZyZuvyybZlMuFQ4M=",
+  "Hash": "kK0E/vf958KOGowwFok+I0Wk84iHD0kiaS1QqjyYm6c=",
   "Source": "MIBC",
   "BasePath": "_content/MIBC",
   "Mode": "Default",
@@ -737,6 +737,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\wwwroot\\Resources\\4e320da4-efe1-4103-84c5-11e0e21a49cb.png",
+      "SourceId": "MIBC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\wwwroot\\",
+      "BasePath": "_content/MIBC",
+      "RelativePath": "Resources/4e320da4-efe1-4103-84c5-11e0e21a49cb.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\4e320da4-efe1-4103-84c5-11e0e21a49cb.png"
     }
   ]
 }

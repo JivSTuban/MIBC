@@ -10,4 +10,12 @@
 	  <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.*-* " />
     <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components.Icons" Version="4.*-* " />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Resources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Resources\4e320da4-efe1-4103-84c5-11e0e21a49cb.png" />
+  </ItemGroup>
 </Project>
