@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|c:\\users\\jivstuban\\source\\repos\\mibc\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10D2CE53-6D4D-4B55-849C-1CDC825C28D1}|MIBC.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T14:41:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -64,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
               "ToolTip": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\wwwroot\\app.css",
               "RelativeToolTip": "wwwroot\\app.css",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJMAAAAWAAAA",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-22T12:38:40.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -90,26 +107,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-22T13:28:00.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\JivSTuban\\source\\repos\\MIBC\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACxAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-22T12:38:00.449Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIBC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79a34a0192b34b30b7ad4e7658b0a9513b563eb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc1e455d3666cb4e59b3324683b92dee0b22ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIBC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIBC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
